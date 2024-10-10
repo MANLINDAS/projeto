@@ -1,57 +1,57 @@
 criaCartao(
     'Matemática', 
-    'Qual a formula para calcular o volume de um cone?' , 
-    'area da base x altura / 3'
+    'Qual a formula para calcular a area de um circulo?' , 
+    '(A = π r²)'
   )
   criaCartao( 
     'Matemática' , 
-    'Qual é a fórmula da base de um triângulo?' ,
-   'base x altura/2'
+    'Qual e a formula para calcular o volume de uma esfera?' ,
+   ' V = 4/3 π r³'
   )
   criaCartao(
     'História',
-     'O que é revolução industrial?', 
-    'Período de grandes mudanças econômicas e sociais, marcado pela mecanização da produçao' ,)
+     'Qual tratado encerrou a Primeira Guerra Mundial?', 
+    'O tratado de Versalhes, 1919 ' ,)
   criaCartao(
     'Quimica' ,
-    ' Quaal é a fórmula química do gás carbônico?',
-    'CO₂')
+    ' Qual e a formula quimica de acido sulfurico?',
+    ' H₂SO₄ ') 
     criaCartao(
       'História' ,
       'Em que ano ocorreu a Proclamação da República no Brasil?' ,
       '1889')
       criaCartao( 
       'Fisica' ,
-      'Qual o valor aproximado da aceleração da gravidade da Terra?',
-      '98 m/s2', )
+      ' O que é energia?',
+      'Energia é a capacidade de realizar trabalho ou causar mudanças.', )
   criaCartao(
     'fisica' ,
-    ' O que é a Lei da Inércia?',
-    ' Um corpo em repouso permanece em repouso e um corpo em movimento permanece em movimento a menos que uma força externa atue sobre ele.')
+    '  O que é força?' ,
+    'Força é uma interação que pode mudar o movimento de um objeto.')
   criaCartao(
       'Matemática' ,
-      'Qual a formula da PG',
-      'an = a1 . q(n-1)'), 
+      'qual a soma dos angulos internos de um triangulo?',
+      '180°') 
   criaCartao(
         'Quimica',
-        'O que é um átomo isótopo?',
-        ' Átomos de um mesmo elemento com números diferentes de nêutrons.')
+        'qual o simbolo quimico do potassio ?',
+        ' K')
   criaCartao(
         'Biologia',
-        'O que é a mitose?',
-        'Processo de divisão celular que resulta em duas células-filhas idênticas.')
+        'O que é a teoria da evolução?',
+        ' A teoria da evolução explica como as espécies mudam ao longo do tempo por meio da seleção natural.')
   criaCartao(
     'Quimica',
-    'Qual é o principal gás responsável pelo efeito estufa?',
-    'Dióxido de carbono (CO₂).')
+    'O que é um átomo? ',
+    ' Um átomo é a menor unidade de um elemento químico, composta por prótons, nêutrons e elétrons.')
   criaCartao(
     'Fisica', 
-    'Qual a  fórmula da velocidade média?',
-    'v=Δs/Δt')
+    'O que é energia cinética',
+    'Energia cinética é a energia que um objeto possui devido ao seu movimento.')
   criaCartao(
     'Matemática',
-    'Qual a formula da equação do segundo grau?' ,
-    ' ax2+bx+c=0')
+    'O que é uma progressão geométrica (PG)?' ,
+    ' Uma PG é uma sequência de números em que cada termo, a partir do segundo, é obtido multiplicando o termo anterior por uma constante chamada razão.')
   criaCartao(
     'Fisica',
     'Qual a formula da energia Cinetica?',
